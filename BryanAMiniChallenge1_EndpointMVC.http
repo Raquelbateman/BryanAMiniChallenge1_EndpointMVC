@@ -1,0 +1,6 @@
+@BryanAMiniChallenge1_EndpointMVC_HostAddress = http://localhost:5197
+
+GET {{BryanAMiniChallenge1_EndpointMVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

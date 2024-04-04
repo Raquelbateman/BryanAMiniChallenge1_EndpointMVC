@@ -6,6 +6,6 @@
 
 // Brief Description: Design an API endpoint that receives user input and outputs a personalized greeting, such as "Hello, {user's name}." 
  
-// Peer Reviewed By:
+// Peer Reviewed By:  Aaron Perez - The Endpoit works as expected with a contoller folder. User can enter name and the output will say hello "Username". Good Job.
 
 //Github: https://github.com/Raquelbateman/BryanAMiniChallenge1_EndpointMVC

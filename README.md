@@ -1,11 +1,11 @@
 // Alicia Bryant
 
- // Date Revised: 04/03/2024
+// Date Revised: 04/03/2024
 
- // Assignment name 
+// Mini Challenge 1 Endpoint MVC
 
- // Brief Description of what you did. 
+// Brief Description: Design an API endpoint that receives user input and outputs a personalized greeting, such as "Hello, {user's name}." 
+ 
+// Peer Reviewed By:
 
- // Peer Reviewed By:
-
- //Github Link:
+//Github: https://github.com/Raquelbateman/BryanAMiniChallenge1_EndpointMVC
